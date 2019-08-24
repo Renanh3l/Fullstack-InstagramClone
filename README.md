@@ -5,9 +5,16 @@ Simples clone do Instagram, feito para aprimorar os estudos.
 
 ### FrontEnd
 - ReactJS
+-- Navegação (rotas)
+-- SocketIO (comunicação em tempo real)
 
 ### BackEnd
-- NodeJS/Express
+- NodeJS & Express
+-- Rotas
+-- MongoDB
+-- SocketIO (comunicação em tempo real)
 
 ### Mobile
 - React Native
+-- Navegação (rotas)
+-- SocketIO (comunicação em tempo real)
