@@ -4,7 +4,7 @@ Simples clone do Instagram, feito para aprimorar os estudos.
 ## Tecnologias e Aprendizados
 
 ### FrontEnd
-- React
+- ReactJS
 
 ### BackEnd
 - NodeJS/Express
