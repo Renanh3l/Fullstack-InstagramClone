@@ -4,17 +4,17 @@ Simples clone do Instagram, feito para aprimorar os estudos.
 ## Tecnologias e Aprendizados
 
 ### FrontEnd
-#### ReactJS
-#### Navegação (rotas)
-#### SocketIO (comunicação em tempo real)
+- ReactJS
+- Navegação (rotas)
+- SocketIO (comunicação em tempo real)
 
 ### BackEnd
 - NodeJS & Express
-#### Rotas
-#### MongoDB
-#### SocketIO (comunicação em tempo real)
+- Rotas
+- MongoDB
+- SocketIO (comunicação em tempo real)
 
 ### Mobile
-### React Native
-#### Navegação (rotas)
-#### SocketIO (comunicação em tempo real)
+- React Native
+- Navegação (rotas)
+- SocketIO (comunicação em tempo real)
